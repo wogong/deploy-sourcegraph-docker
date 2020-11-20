@@ -9,3 +9,4 @@ nginx/sourcegraph.key
 *.log
 
 /right.dhall
+*.notags
